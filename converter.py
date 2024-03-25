@@ -1,4 +1,4 @@
-km_m = input("KM or Mile? ")
+km_m = input("KM or Mile converter: ")
 value = int(input("Value: "))
 
 
